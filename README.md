@@ -2,7 +2,7 @@
 
 Static landing page for **ACLLC** (web design, redesigns, landing pages, maintenance).
 
-**Live URL:** http://acllwebdesignco.vercel.app
+**Live URL:** https://acllwebdesign.vercel.app
 
 ## Project structure
 
@@ -37,4 +37,4 @@ vercel
 ## Notes
 
 - Contact form uses `mailto:achdouzcompany@gmail.com` (opens the visitor’s email client with details pre-filled).
-- Social/OG tags are configured for `http://acllwebdesignco.vercel.app` with a 4K image at `assets/og-image-4k.png`.
+- Social/OG tags are configured for `https://acllwebdesign.vercel.app` with a 4K image at `assets/og-image-4k.png`.
